@@ -10,6 +10,7 @@ codewitgabi/codewitgabi is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewitgabi)](https://github.com/codewitgabi/github-profile-trophy)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewitgabi&show_icons=true&theme=radical)
