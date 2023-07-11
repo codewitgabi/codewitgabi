@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewitgabi
 - 👀 I’m interested in python backend web development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Fullstack web applications involving Django, HTML, CSS, JavaScript, React, PostgreSQL, etc
 - 📫 How to reach me: Contact me on WhatsApp; 09020617734\
 facebook; Michael Gabriel
 
