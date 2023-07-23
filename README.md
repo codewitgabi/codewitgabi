@@ -19,6 +19,14 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+---
+
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=codewitgabi&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/codewitgabi/github-stats">
+</p>
+
+ ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B)](https://github.com/codewitgabi/github-profile-trophy)
 
 
