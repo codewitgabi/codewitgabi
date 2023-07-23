@@ -27,8 +27,17 @@ You can click the Preview link to take a look at your changes.
 </p>
 
  ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B)](https://github.com/codewitgabi/github-profile-trophy)
 
+ ---
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=codewitgabi&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=codewitgabi&theme=react" />
+</p>
+
+ ---
+ <div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B)](https://github.com/codewitgabi/github-profile-trophy)
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewitgabi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewitgabi)](https://github.com/codewitgabi/github-readme-stats)
