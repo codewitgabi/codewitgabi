@@ -10,6 +10,15 @@ codewitgabi/codewitgabi is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+
+<h2 align="center">Languages and Tools</h2>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,js,typescript,cpp,mongodb,nodejs,express,jquery,postgres,html,css,git,github,vscode,bootstrap,tailwind&perline=8">
+</p>
+
+---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B)](https://github.com/codewitgabi/github-profile-trophy)
 
 
