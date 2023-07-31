@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,js,python,django,nodejs,express,postgres,shell,html,css,git,github,vscode,bootstrap&perline=8">
+  <img src="https://skillicons.dev/icons?i=react,js,python,django,nodejs,tailwindcss,express,postgres,shell,html,css,git,github,vscode,bootstrap&perline=8">
 </p>
 
 ---
