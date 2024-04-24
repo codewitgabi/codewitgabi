@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @codewitgabi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Express.js
-- 💞️ I’m looking to collaborate on Fullstack web applications involving Django, HTML, CSS, JavaScript, React, PostgreSQL, etc
+- 🌱 I’m currently learning nestjs
+- 💞️ I’m looking to collaborate on Fullstack web applications involving Django, HTML, CSS, JavaScript, React, PostgreSQL, Expressjs etc
 - 📫 How to reach me: Contact me on WhatsApp; 09020617734\
 facebook; Michael Gabriel
+
+<a href="https://gitroll.io/profile/uAFYjZQxR0SQEnVkEAt7braT1ASi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAFYjZQxR0SQEnVkEAt7braT1ASi2" alt="GitRoll Profile Badge"/></a>
 
 <!---
 codewitgabi/codewitgabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
