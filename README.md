@@ -1,31 +1,3 @@
-<style>
-    img {
-      100%
-    }
-
-    .stat-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1em;
-    }
-
-    .stat-grid img {
-      width: 100%;
-    }
-
-    @media only screen and (max-width: 768px) {
-      .stat-grid {
-        grid-template-columns: 1fr;
-      }
-    }
-
-    /* Project display */
-
-    .project-display {
-
-    }
-</style>
-
 <div align="center">
   <h3>Hello world🚀🚀🚀🚀</h3>
   <br />
@@ -53,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 **`✨✨Languages and Tools✨✨`**
+
 <br>
 
 <p align="center"> 
@@ -66,29 +39,32 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <div align="center">
-  <img width="" src="https://github-readme-activity-graph.vercel.app/graph?username=codewitgabi&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewitgabi&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/codewitgabi/github-stats">
 </div>
 
 ---
 
 <div class="stat-grid">
-  <img width="" src="https://github-readme-stats.vercel.app/api?username=codewitgabi&count_private=true&show_icons=true&theme=react" />
-  <img width="" src="https://streak-stats.demolab.com/?user=codewitgabi&theme=react" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=codewitgabi&count_private=true&show_icons=true&theme=react" />
+
+  <img width="100%" src="https://streak-stats.demolab.com/?user=codewitgabi&theme=react" />
 </div>
 
 ---
 
 <div class="stat-grid">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B" width="100%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitgabi" />
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitgabi" width="100%" />
 </div>
 
 ---
 
-**`Project Showcase`**
+**`Latest project`**
 
 <br />
 
-<img src="![artisan-project](./image.png)" />
+<img src="image.png" />
