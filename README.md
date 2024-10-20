@@ -53,10 +53,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div class="stat-grid">
+<div class="stat-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1em;">
   <img src="https://github-profile-trophy.vercel.app/?username=codewitgabi&row=2&column=3&theme=onedark&rank=-C,-B" width="100%" />
-
-  <br />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitgabi" width="100%" />
 </div>
